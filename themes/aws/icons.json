@@ -1,0 +1,10 @@
+{
+    "name": "AWS",
+    "description": "This theme includes element styles with icons for AWS.",
+    "elements": [
+        {
+            "tag": "Amazon Web Services - Bedrock",
+            "icon": "bedrock.png"
+        }
+    ]
+}
